@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data (do not upload SAR data)
+data/
+
+# Results (optional)
+results/
+
+# OS
+.DS_Store
+Thumbs.db
